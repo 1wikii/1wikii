@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**1wikii/1wikii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m ahmad dwiky zerro dixxon
 - 👀 I’m interested in codding
 - 🌱 for now i still learn about basic c++ language and fundamental of html css
