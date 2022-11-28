@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Wiky or you can call me wiki
 - 👀 I’m interested in front-end dev
 - 🌱 for now i still learn about basic c++ and html css
-- 💞️ i'm want working as a programmer or something like that
+- 💞️ i'm want working as a Front-End Developer
 - 📫 my mail ahmaddwikyzerrodixxon@gmail.com
 - 📱  my whatsapp number 082178431198
 
