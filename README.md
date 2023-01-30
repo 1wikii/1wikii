@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Wiky or you can call me wiki
+- 👋 Hi, I’m Ahmad Dwiky Zerro Dixxon or you can call me wiki
 - 👀 I’m interested in front-end dev
 - 🌱 for now i still learn about basic c++ and html css
 - 💞️ i'm want working as a Front-End Developer
