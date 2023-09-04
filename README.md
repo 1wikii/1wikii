@@ -2,7 +2,7 @@
 
 Informatics Engineering student at Institut Teknologi of Sumatra.
 
-I'm currently deep diving to react to create my first project with react js. 
+I'm currently deep diving into <a href="https://react.dev">React</a> to create my first project. 
 
 - 🔭 I’m currently studying in <a href="https://www.itera.ac.id/">ITERA</a>
 - 💬 Feel free to ask me about web development or JavaScript
