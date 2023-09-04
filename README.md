@@ -12,7 +12,7 @@ I'm currently deep diving into <a href="https://react.dev">React</a> to create m
 ### Skills  
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://www.cdnlogo.com/logos/j/44/javascript.svg" /></a>
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://www.cdnlogo.com/logos/p/3/python.svg" /></a>
-  <a href="#"><img align="left" alt="Php" title="Php" width="21px" src="https://www.cdnlogo.com/logos/p/44/php.svg" /></a>
+  <a href="#"><img align="left" alt="Php" title="Php" width="21px" src="https://www.cdnlogo.com/logos/p/71/php.svg" /></a>
   <br>
   <br>
   
