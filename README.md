@@ -7,7 +7,7 @@ I'm currently deep diving into <a href="https://react.dev">React</a> to create m
 - 🔭 I’m currently studying in <a href="https://www.itera.ac.id/">ITERA</a>
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: ahmaddwikyzerrodixxon@gmail.com
-- ⚡ Fun fact : i'm aloner, lets be friend>3
+- ⚡ Fun fact : lets be friend>3
 
 ### Skills  
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://www.cdnlogo.com/logos/j/44/javascript.svg" /></a>
