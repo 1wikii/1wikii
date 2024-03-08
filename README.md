@@ -7,7 +7,7 @@ I'm currently deep diving into <a href="https://www.codeigniter.com/">Code Ignit
 - 🔭 I’m currently studying in <a href="https://www.itera.ac.id/">ITERA</a>
 - 💬 Feel free to ask me about web development
 - 📫 How to reach me: ahmaddwikyzerrodixxon@gmail.com
-- ⚡ Fun fact : lets be friend>3. <a href="https://www.instagram.com/dwiky_dxxn/">My insta</a>.
+- ⚡ Fun fact : lets be friend>3. chat with me on <a href="https://www.instagram.com/dwiky_dxxn/">Instagram</a>.
 
 ### Skills  
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://www.cdnlogo.com/logos/j/44/javascript.svg" /></a>
