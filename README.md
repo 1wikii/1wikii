@@ -1,6 +1,7 @@
 ## ✨ Ahmad Dwiky | Fullstack Developer ✨
 
-<div align="center">
+<div align
+="center">
   <a href="https://www.linkedin.com/in/ahmad-dwiky/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>    
   </a>
@@ -11,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Fullstack developer with more than 1+ years of experience in website development and deployment. I am passionate about developing web app or any tech solution with modern framework, currently AI integration is look interesting to me to learn and implement.I love working with people in a team, loved chit chat about technology and ethusias about it.  
+Fullstack developer with more than 2+ years of experience in website development and deployment. I am passionate about developing web app or any tech solution with modern framework, currently AI integration is look interesting to me to learn and implement.I love working with people in a team, loved chit chat about technology and ethusias about it.  
 
 - 🔭 I’m currently working on **College and start my thesis build web app project from campus, planned to integrate AI into my project**
 - 🌱 I’m currently learning **Docker to dig deeper into microservice and learning eather Go or Nodejs backend**
